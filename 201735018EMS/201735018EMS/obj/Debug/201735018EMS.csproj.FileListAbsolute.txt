@@ -1,0 +1,13 @@
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\bin\Debug\201735018EMS.exe.config
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\bin\Debug\201735018EMS.exe
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\bin\Debug\201735018EMS.pdb
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\obj\Debug\201735018EMS.csprojAssemblyReference.cache
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\obj\Debug\_201735018EMS.Form1.resources
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\obj\Debug\_201735018EMS.Properties.Resources.resources
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\obj\Debug\201735018EMS.csproj.GenerateResource.cache
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\obj\Debug\201735018EMS.csproj.CoreCompileInputs.cache
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\obj\Debug\201735018EMS.exe
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\obj\Debug\201735018EMS.pdb
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\obj\Debug\_201735018EMS.Form2.resources
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\obj\Debug\_201735018EMS.Form3.resources
+C:\Users\onurc\source\repos\201735018EMS\201735018EMS\obj\Debug\_201735018EMS.Form4.resources
